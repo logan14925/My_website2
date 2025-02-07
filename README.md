@@ -11,3 +11,4 @@ This [blog post](https://jameswillett.dev/getting-started-with-material-for-mkdo
 ## Video Branches
 
 While following through the video, you can browse to any of the [branches](https://github.com/james-willett/material-mkdocs-youtube-2024/branches) if you want to see what my code looked like at that particular point in the video.# My_website2
+# My_website2
